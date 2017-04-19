@@ -2,7 +2,7 @@
 ssh lgm2
 
 ```
-virtualenv /path/to/install
+virtualenv /path/to/install --system-site-packages 
 ```
 
 miniconda2 to install the package of H5df
